@@ -6,7 +6,7 @@ My favourite programming languages:
 - Python
 - Lua
 
-My favourite technologies:
+My favourite libraries and technologies:
 - Django
 - PyTorch and TensorFlow
 - SDL3
