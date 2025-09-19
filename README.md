@@ -1,10 +1,10 @@
 Hey!
 My favourite programming languages:
 - C/C++
-- Rust
 - C#
 - Python
 - Lua
+- Elixir
 
 My favourite libraries and technologies:
 - Django
