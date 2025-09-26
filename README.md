@@ -1,5 +1,6 @@
 Hey!
 My favourite programming languages:
+- Rust
 - C/C++
 - C#
 - Python
